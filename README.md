@@ -2,3 +2,4 @@
 
 Página de autenticação do Instagram utilizando HTML + CSS.
 
+Estilização personalizada.
